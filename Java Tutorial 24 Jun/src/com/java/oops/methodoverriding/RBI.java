@@ -1,9 +1,9 @@
-package com.java.methodoverriding;
+package com.java.oops.methodoverriding;
 
 public class RBI {
 
 	
-	public static void getInterestRate()
+	public void getInterestRate()
 	{
 		System.out.println("Interest Rate Must be 6 % - 12 %");
 	}

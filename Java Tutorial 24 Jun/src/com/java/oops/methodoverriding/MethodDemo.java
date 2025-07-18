@@ -1,4 +1,4 @@
-package com.java.methodoverriding;
+package com.java.oops.methodoverriding;
 
 public class MethodDemo {
 

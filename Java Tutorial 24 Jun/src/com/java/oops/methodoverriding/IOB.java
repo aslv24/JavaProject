@@ -1,9 +1,9 @@
-package com.java.methodoverriding;
+package com.java.oops.methodoverriding;
 
 public class IOB extends RBI{
 
 	
-	public static void getInterestRate()
+	public void getInterestRate()
 	{
 		System.out.println("Interest Rate Must be 8 %");
 	}
